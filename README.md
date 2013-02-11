@@ -1,11 +1,11 @@
 elephant-bird-intro
 ===================
 
-# Summary # 
+# Summary
 
 An introduction to elephant-bird on the Hortonworks Blog
 
-# About elephant-bird #
+# About elephant-bird
 
 From [elephant-bird](https://github.com/kevinweil/elephant-bird):
 
